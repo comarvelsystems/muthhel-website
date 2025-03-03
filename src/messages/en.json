@@ -1,0 +1,100 @@
+{
+  "Settings": {
+    "altLogo": "Muthhel",
+    "header": {
+      "nav": {
+        "docs": "Documentation",
+        "about": "About us",
+        "services": "Services",
+        "question": "Questions",
+        "pricing": "Pricing",
+        "contactUs": "Contact us",
+        "logIn": "Log in"
+      }
+    },
+    "footer": {
+      "title": "For technical support, you can contact us and send <span>your complaint</span>",
+      "button": "Contact us",
+      "copyright": "All rights reserved to Muthhel - Designed By Marvel Systems"
+    }
+  },
+  "HomePage": {
+    "metadata": {
+      "title": "Muthhel ERP - The most flexible Enterprise Resource Planning system on the planet",
+      "description": "Muthhel ERP is the most flexible Enterprise Resource Planning system on the planet, complete and multi-purpose, designed for both simplicity and power.",
+      "author": "Marvel Systems",
+      "keywords": "Muthhel ERP"
+    },
+    "heroSection": {
+      "linkBox": "We offer you special prices",
+      "title": "The most flexible Enterprise Resource Planning system on the <span>planet</span>",
+      "text": "Power, accuracy and ease of use at your fingertips",
+      "buttons": {
+        "primary": "Browse Pricing",
+        "secondary": "Discover More"
+      },
+      "image": {
+        "alt": "Hero Image"
+      }
+    },
+    "featuresSection": {
+      "title": "Some of the powerful features of the system",
+      "text": "Muthhel has a range of advanced features that help you launch your business faster",
+      "items": {
+        "item1": {
+          "title": "Professional financial management",
+          "text": "Manage your financial accounts, financial reports, invoicing, payment tracking, bank account management, and expenses, which helps improve the efficiency and accuracy of your financial operations and make better financial decisions."
+        },
+        "item2": {
+          "title": "Sales and customer management",
+          "text": "Easy to use, track sales and customer interactions, support promotions, generate detailed reports for performance analysis, customer support, user permissions, and customization flexibility, with e-commerce integration."
+        },
+        "item3": {
+          "title": "Electronic invoicing",
+          "text": "Integration with the General Authority of Zakat and Tax system helps ensure accurate financial and tax data, reduces the risk of errors and tax evasion, and achieves full tax compliance and legal compliance."
+        },
+        "item4": {
+          "title": "Comprehensive order management",
+          "text": "Streamline and manage your orders effectively, from order tracking, customer and product information, shipping and delivery scheduling, and inventory management, which helps increase efficiency and improve customer experience."
+        }
+      }
+    },
+    "managementSection": {
+      "title": "Professional resource management",
+      "text": "Manage your resources professionally through flexible and easy-to-use interfaces, accurate data processing, and comprehensive reports",
+      "items": {
+        "item1": {
+          "title": "Financial management",
+          "text": "Manage your financial accounts, financial reports, invoicing, payment tracking, bank account management, and expenses, which helps improve the efficiency and accuracy of your financial operations and make better financial decisions."
+        },
+        "item2": {
+          "title": "Human resources and payroll management",
+          "text": "Manage the entire employee lifecycle, from recruitment, salary management, attendance, expense claims, and asset management, to termination of service, through a wide range of tools and features."
+        },
+        "item3": {
+          "title": "Project management",
+          "text": "Plan, track, and manage your projects effectively, including task management, resource allocation, cost tracking, invoicing and payment management, and comprehensive reporting for performance analysis and decision-making support."
+        },
+        "item4": {
+          "title": "Order management",
+          "text": "Streamline and manage your orders effectively, from order tracking, customer and product information, shipping and delivery scheduling, and inventory management, which helps increase efficiency and improve customer experience."
+        },
+        "item5": {
+          "title": "CRM",
+          "text": "Muthhel's CRM system provides customer tracking, sales and marketing management, customer service, and performance analysis, which helps improve customer communication, increase customer satisfaction, and improve sales and marketing operations to achieve business success."
+        },
+        "item6": {
+          "title": "Manufacturing",
+          "text": "Provides comprehensive visibility and control over manufacturing operations, from resource planning and scheduling to production tracking and quality control, which helps increase efficiency, improve process performance, and reduce costs."
+        }
+      }
+    },
+    "about": {
+      "title": "Explore the features of this system",
+      "text": "Muthhel is a comprehensive Enterprise Resource Planning system. It aims to organize and coordinate all business operations within the organization, from sales and procurement management to human resources and accounting. Muthhel provides a comprehensive range of applications and modules that help improve work efficiency and organization. The system includes features such as customer and supplier management, procurement and inventory management, project management, asset management, human resources management, production management, and accounting. Muthhel is based on the principle of data integration, where information is exchanged seamlessly between all departments and sections within the organization. It provides users with access to up-to-date and useful information in real-time, which helps make better decisions based on data. Muthhel can be customized and modified according to the needs of each organization. It also has strong community support, with continuous development and improvement."
+    },
+    "reviews": {
+      "title": "Our success partners who used our system <span>and loved it</span>"
+    }
+  }
+}
