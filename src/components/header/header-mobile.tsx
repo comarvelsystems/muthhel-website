@@ -56,6 +56,14 @@ const HeaderMobile = () => {
                       </Link>
                     </li>
                   ))}
+                  <li>
+                    <Link
+                      href="https://cloud.muthhelerp.com/login"
+                      className="trans-colors hover:text-primary-second dark:hover:text-primary flex-horizontally gap-1 text-2xl"
+                    >
+                      <span>{t('header.nav.logIn')}</span>
+                    </Link>
+                  </li>
                 </ul>
               </div>
             </SheetContent>
