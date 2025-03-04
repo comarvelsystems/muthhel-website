@@ -42,7 +42,7 @@
   --popover: oklch(14.08% 0.0044 285.82);
   --popover-foreground: oklch(88.53% 0 0);
   --primary: oklch(84.52% 0.1299 164.98);
-  --primary-foreground: oklch(88.53% 0 0);
+  --primary-foreground: oklch(14.08% 0.0044 285.82);
   --primary-second: oklch(88.58% 0.1103 95.02);
   --primary-second-foreground: oklch(100% 0 0);
   --secondary: oklch(26.85% 0.0063 34.3);
@@ -219,5 +219,11 @@ body {
   .social-media-item {
     box-shadow: 0px 0px 8px 0.82px rgba(255, 255, 255, 0.12) inset;
     @apply bg-background/5 hover:bg-primary-second dark:hover:bg-primary text-foreground flex size-10 items-center justify-center rounded-[8px] transition duration-500;
+  }
+  .services-features-list {
+    @apply divide-border/10 flex flex-col gap-6 divide-y sm:flex-row sm:divide-y-0 md:gap-16;
+  }
+  .services-features-list li {
+    @apply text-primary-foreground flex items-center justify-center gap-3 py-6 text-xl font-bold sm:py-0 lg:text-3xl;
   }
 }

@@ -3,7 +3,7 @@ import { getTranslations } from 'next-intl/server';
 import { TextReveal } from '@/components/magicui/text-reveal';
 
 const AboutArticle = async () => {
-  const t = await getTranslations('HomePage.about');
+  const t = await getTranslations('HomePage.aboutSection');
 
   return (
     <>

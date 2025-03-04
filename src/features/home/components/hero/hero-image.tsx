@@ -26,6 +26,7 @@ const HeroImage = () => {
       )}
       <div className="absolute top-0 left-1/2 -z-10 h-full w-8/12 -translate-x-1/2 rounded-[963px] bg-emerald-500/60 blur-[156px]" />
       <CardBorderBeam
+        size={200}
         duration={15}
         darkFrom="#ffffff"
         darkTo="#dddddd"

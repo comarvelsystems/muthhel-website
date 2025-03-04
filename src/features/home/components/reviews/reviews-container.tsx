@@ -8,7 +8,7 @@ const firstRow = reviews.slice(0, reviews.length / 2);
 const secondRow = reviews.slice(reviews.length / 2);
 
 const ReviewsContainer = async () => {
-  const t = await getTranslations('HomePage.reviews');
+  const t = await getTranslations('HomePage.reviewsSection');
 
   return (
     <section className="s-block lg:!mt-56">

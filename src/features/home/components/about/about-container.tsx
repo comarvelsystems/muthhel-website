@@ -3,7 +3,7 @@ import { getTranslations } from 'next-intl/server';
 import AboutArticle from './about-article';
 
 const AboutContainer = async () => {
-  const t = await getTranslations('HomePage.about');
+  const t = await getTranslations('HomePage.aboutSection');
 
   return (
     <section className="s-container s-block">

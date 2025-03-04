@@ -29,6 +29,7 @@ const FeaturesList = async () => {
             </div>
             <div className="bg-foreground/5 aspect-video w-full rounded-tr-xl rtl:rounded-tl-xl rtl:rounded-tr-none"></div>
             <CardBorderBeam
+              size={200}
               darkFrom="#3cb089"
               darkTo="#f0d982"
               from="#1A4C3B"
