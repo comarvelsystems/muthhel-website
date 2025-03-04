@@ -72,7 +72,7 @@ export async function generateMetadata({
       initialScale: 1.0,
     },
     icons: {
-      icon: '/favicon.ico',
+      icon: '/images/favicon.png',
       // apple: "/apple-touch-icon.png",
     },
   };
