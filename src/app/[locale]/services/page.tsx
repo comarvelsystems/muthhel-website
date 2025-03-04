@@ -11,7 +11,7 @@ export async function generateMetadata(): Promise<Metadata> {
     title: `${t('Settings.siteName')} | ${t('ServicesPage.metadata.title')}`,
     description: t('ServicesPage.metadata.description'),
     openGraph: {
-      title: t('ServicesPage.title'),
+      title: `${t('Settings.siteName')} | ${t('ServicesPage.metadata.title')}`,
       description: t('ServicesPage.metadata.description'),
       url: '',
       images: [
@@ -26,7 +26,7 @@ export async function generateMetadata(): Promise<Metadata> {
     },
     twitter: {
       card: 'summary_large_image',
-      title: t('ServicesPage.metadata.title'),
+      title: `${t('Settings.siteName')} | ${t('ServicesPage.metadata.title')}`,
       description: t('ServicesPage.metadata.description'),
       images: [],
     },
